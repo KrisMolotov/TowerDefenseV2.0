@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TowerDefenseV2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TowerDefenseV2C::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TowerDefenseV2C-Debug-d69154cd77e328c9f088.json",
+					"name" : "TowerDefenseV2C",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TowerDefenseV2E::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TowerDefenseV2E-Debug-14953b9d13a295f9617b.json",
+					"name" : "TowerDefenseV2E",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TowerDefenseV2L::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TowerDefenseV2L-Debug-973a4497c744838bb753.json",
+					"name" : "TowerDefenseV2L",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TowerDefenseV2LS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TowerDefenseV2LS-Debug-432671ab7f60416c5017.json",
+					"name" : "TowerDefenseV2LS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TowerDefenseV2S::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TowerDefenseV2S-Debug-2353745b1ee7b520560b.json",
+					"name" : "TowerDefenseV2S",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TowerDefenseV2T::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TowerDefenseV2T-Debug-ed841dd87ef69a983704.json",
+					"name" : "TowerDefenseV2T",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TowerDefenseV2W::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TowerDefenseV2W-Debug-e278c1892e3015221ff1.json",
+					"name" : "TowerDefenseV2W",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/christianshander/CLionProjects/TowerDefenseV2/cmake-build-debug",
+		"source" : "/Users/christianshander/CLionProjects/TowerDefenseV2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
